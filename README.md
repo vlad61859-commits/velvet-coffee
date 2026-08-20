@@ -40,22 +40,6 @@ The website uses a dark premium visual style with warm gold accents.
 
 The design was created around the atmosphere of a modern coffee shop, using large photography, elegant typography and subtle animations.
 
-## What I Learned
-
-During this project I practiced:
-
-* building a website from scratch using HTML and CSS;
-* creating responsive layouts;
-* working with CSS Grid and Flexbox;
-* manipulating the DOM with JavaScript;
-* working with click and keyboard events;
-* creating a custom image lightbox;
-* creating a reviews slider;
-* using Intersection Observer for scroll animations;
-* building a responsive mobile navigation;
-* debugging CSS and JavaScript problems;
-* deploying a website using GitHub Pages.
-
 ## Project Status
 
 Completed ✅
