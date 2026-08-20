@@ -411,16 +411,11 @@ body {
         top: 80px;
         left: 20px;
         right: 20px;
-
         display: none;
         flex-direction: column;
-
         gap: 20px;
-
         padding: 25px;
-
         background-color: rgba(20, 20, 20, 0.95);
-
         border-radius: 15px;
     }
 
@@ -438,7 +433,6 @@ body {
 
     .hero {
         padding: 120px 20px 50px;
-
         background-position: 65% center;
     }
 
@@ -456,7 +450,6 @@ body {
 
     .hero-buttons {
         flex-direction: column;
-
         align-items: flex-start;
     }
 
@@ -1235,31 +1228,20 @@ body {
     pointer-events: none;
 }
 
-/* =========================
-   NAVBAR FINAL FIX
-========================= */
-
 .header {
     position: fixed;
-
     top: 0;
     left: 0;
-
     width: 100%;
-
     z-index: 1000;
-
     background-color: transparent;
-
     transition: 0.4s ease;
 }
 
 
 .header.scrolled {
     background-color: rgba(10, 10, 10, 0.95);
-
     backdrop-filter: blur(12px);
-
     box-shadow: 0 5px 30px rgba(0, 0, 0, 0.25);
 }
 
@@ -1267,16 +1249,11 @@ body {
 .navbar {
     width: 100%;
     max-width: 1300px;
-
     margin: auto;
-
     padding: 20px 40px;
-
     display: flex;
-
     align-items: center;
     justify-content: space-between;
-
     gap: 30px;
 }
 
@@ -1285,12 +1262,9 @@ body {
 
 .logo {
     color: white;
-
     font-size: 24px;
     font-weight: 600;
-
     text-decoration: none;
-
     white-space: nowrap;
 }
 
@@ -1299,14 +1273,10 @@ body {
 
 .nav-links {
     display: flex;
-
     align-items: center;
-
     gap: 35px;
-
     margin: 0;
     padding: 0;
-
     list-style: none;
 }
 
@@ -1314,18 +1284,14 @@ body {
 .nav-links li {
     margin: 0;
     padding: 0;
-
     list-style: none;
 }
 
 
 .nav-links a {
     color: white;
-
     font-size: 15px;
-
     text-decoration: none;
-
     transition: 0.3s;
 }
 
@@ -1339,26 +1305,18 @@ body {
 
 .nav-button {
     display: inline-block;
-
     padding: 12px 22px;
-
     border: 1px solid #d5a56d;
-
     border-radius: 30px;
-
     color: white;
-
     text-decoration: none;
-
     white-space: nowrap;
-
     transition: 0.3s;
 }
 
 
 .nav-button:hover {
     background-color: #d5a56d;
-
     color: #111111;
 }
 
@@ -1367,17 +1325,11 @@ body {
 
 .menu-button {
     display: none;
-
     padding: 0;
-
     background: none;
-
     border: none;
-
     color: white;
-
     font-size: 28px;
-
     cursor: pointer;
 }
 
@@ -1464,10 +1416,6 @@ body {
     color: white;
 }
 
-/* =========================
-   FINAL RESPONSIVE FIX
-========================= */
-
 body {
     overflow-x: hidden;
 }
@@ -1475,11 +1423,6 @@ body {
 .section-header h2 {
     color: white;
 }
-
-
-/* =========================
-   TABLET
-========================= */
 
 @media (max-width: 1000px) {
 
@@ -1910,11 +1853,6 @@ body {
 
 }
 
-/* =========================================================
-   FINAL NAVIGATION OVERRIDE
-   Keep this block at the very end of the stylesheet.
-========================================================= */
-
 .header {
     position: fixed;
     top: 0;
@@ -2044,11 +1982,6 @@ body {
         background: rgba(213, 165, 109, 0.1);
     }
 }
-
-
-/* =========================================================
-   FINAL PORTFOLIO POLISH
-========================================================= */
 
 :root {
     --coffee-gold: #d5a56d;
