@@ -1,5 +1,3 @@
-https://vlad61859-commits.github.io/velvet-coffee/
-
 # Velvet Coffee ☕
 
 Velvet Coffee is a modern and responsive coffee shop website created as a frontend portfolio project.
