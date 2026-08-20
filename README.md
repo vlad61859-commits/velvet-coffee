@@ -1,4 +1,4 @@
-# Velvet Coffee ☕
+# Velvet Coffee 
 
 Velvet Coffee is a modern and responsive coffee shop website created as a frontend portfolio project.
 
